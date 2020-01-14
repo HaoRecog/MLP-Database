@@ -73,7 +73,7 @@ If you like our work or find MLP dataset useful, please cite the following paper
 @inproceedings{hsu2015comparison,
   title={A comparison study on motorcycle license plate detection},
   author={Hsu, Gee-Sern and Zeng, Si-De and Chiu, Chun-Wei and Chung, Sheng-Luen},
-  booktitle={2015 ICMEW},
+  booktitle={ICMEW},
   year={2015},
 }
 ```
