@@ -38,7 +38,7 @@ Current position: <your job title>
 Email: <must be the email at the above mentioned institution>
 Postal Address:
 Phone number:
-I have read and agreed to follow the restrictions specified in the PFF database webpage. This database will only be used for research purposes. I will not make any part of this database available to a third party. I'll not sell any part of this database or make any profit from its use.
+I have read and agreed to follow the restrictions specified in the MLP database webpage. This database will only be used for research purposes. I will not make any part of this database available to a third party. I'll not sell any part of this database or make any profit from its use.
 <your signature>
 ```
 In general, a password will take 3-7 workdays to issue. To avoid problems with our spam filter, make sure that your email is sent from an .edu (or similar) address. Failure to follow the instruction may result in no response. 
@@ -52,7 +52,7 @@ Prof. Hsu's e-mail: jison@mail.ntust.edu.tw
 Restriction
 -
 To guarantee the proper use of this database, the following restrictions must be followed by any person who has downloaded the database.
- 1. All submissions, publications, and works that use or talk about the PFF database must cite the paper. 
+ 1. All submissions, publications, and works that use or talk about the MLP database must cite the paper. 
  2. Permission is NOT granted to reproduce or distribute the database. 
  3. Written permission must be approved by Prof. Gee-Sern Hsu if a faculty member desires to share the database with her/his co-workers or students. Even then, the database cannot be posted on a webpage accessible from outside the faculty research group. 
  4. No economical profit can be made from this database. 
@@ -61,7 +61,7 @@ No country or institution is excluded of any of the above restrictions. Failure 
 
 Download Link
 -
-[PFF Download Link](http://140.118.199.217:5000/sharing/fbsharing-lsFrnjoo)
+[MLP Download Link](http://140.118.199.217:5000/sharing/fbsharing-lsFrnjoo)
 
 
 Citation and Contact
