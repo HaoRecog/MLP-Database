@@ -1,6 +1,6 @@
 # A comparison study on motorcycle license plate detection ([Website](https://sites.google.com/site/ntustmlpdatabase/home))
 
-By Gee-Sern Hsu , Si-De Zeng ; Chun-Wei Chiu , Sheng-Luen Chung
+By Gee-Sern Hsu , Si-De Zeng , Chun-Wei Chiu , Sheng-Luen Chung
 
 The NTUST-MLP database contains 2120 images, of 640.x480 pixels in size each, collected from roadsides, parking lots and in-vehicle video recorders.
 
@@ -16,7 +16,7 @@ Update
 --
 |Date|Updata|
 |----|------|
-|2020-01-14|MLP dataset is composed and made available to the research community.|
+|2015-07-30|MLP dataset is composed and made available to the research community.|
 
 
 Data Download 
