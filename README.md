@@ -1,4 +1,4 @@
-# MLP-Database ([Website](https://sites.google.com/site/ntustmlpdatabase/home))
+# A comparison study on motorcycle license plate detection ([Website](https://sites.google.com/site/ntustmlpdatabase/home))
 
 By Gee-Sern Hsu , Si-De Zeng ; Chun-Wei Chiu , Sheng-Luen Chung
 
