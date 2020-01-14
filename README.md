@@ -8,8 +8,6 @@ We hope that the Pulse from face (MLP) database could revolutionized the landsca
 
 Here are some examples from the dataset.
 
-![Alt text](Motor.png?raw=true "Title")
-
 ![Alt text](Motorcyclepicture.png?raw=true "Title")
 
 Update
@@ -67,5 +65,12 @@ Download Link
 Citation and Contact
 --
 If you like our work or find MLP dataset useful, please cite the following paper：
+
+@inproceedings{hsu2015comparison,
+  title={A comparison study on motorcycle license plate detection},
+  author={Hsu, Gee-Sern and Zeng, Si-De and Chiu, Chun-Wei and Chung, Sheng-Luen},
+  booktitle={2015 ICMEW},
+  year={2015},
+}
 
 Any suggestion or comment would be valuable. Please send an email to corresponding author (Gee-Sern Hsu) or Database administrator.
