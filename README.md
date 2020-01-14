@@ -2,11 +2,9 @@
 
 By Gee-Sern Hsu , Si-De Zeng , Chun-Wei Chiu , Sheng-Luen Chung
 
-The NTUST-MLP database contains 2120 images, of 640.x480 pixels in size each, collected from roadsides, parking lots and in-vehicle video recorders.
+we have made the NTUST Motorcycle License Plate database which contains 2120 images collected from different scenes and weather conditions. It reveals a wide scope of variation on viewing angle, size and illumination condition.
 
-License plate detection and recognition are mostly studied on automobiles but only few on motorcycles. As motorcycles are becoming popular for local transportation and environmental friendliness, the demands for license plate recognition have been increasing in recent years. The primary difference between the license plate recognition in automobiles and motorcycles is on the detection of license plates, which is the topic of this study. For automobiles, the license plates are mostly installed on the front or on the back of the vehicle with relatively less complicated backgrounds; however, for motorcycles, the backgrounds can be far more complicated. To better handle complicated backgrounds, we study the case with motorcycle detection as preprocessing so that the search area for the license plate can be better constrained, and compare its performance with the case without the preprocessing.
-
-We hope that the Pulse from face (MLP) database could revolutionized the landscape of heart rate detection research. A detailed introduction of MLP can be found in the [paper](https://ieeexplore.ieee.org/document/7169772).
+We hope that the MLP database could revolutionized the landscape of heart rate detection research. A detailed introduction of MLP can be found in the [paper](https://ieeexplore.ieee.org/document/7169772).
 
 Here are some examples from the dataset.
 
