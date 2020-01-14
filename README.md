@@ -2,7 +2,9 @@
 
 By Gee-Sern Hsu , Si-De Zeng , Chun-Wei Chiu , Sheng-Luen Chung
 
-we have made the NTUST Motorcycle License Plate database which contains 2120 images collected from different scenes and weather conditions. It reveals a wide scope of variation on viewing angle, size and illumination condition.
+NTUST Motorcycle License Plate database which contains 2120 images collected from different scenes and weather conditions. It reveals a wide scope of variation on viewing angle, size and illumination condition.
+The primary difference between the license plate recognition in automobiles and motorcycles is on the detection of license plates, which is the topic of this paper.
+To better handle complicated backgrounds, we study the case with motorcycle detection as a preprocessing step so that the search area for the license plate can be better constrained, and compare its performance with the case without this preprocessing. For an extensive study on the performance, we have made the NTUST Motorcycle License Plate database which contains 2120 images collected from different scenes and weather conditions. It reveals a wide scope of variation on viewing angle, size and illumination condition. 
 
 We hope that the MLP database could revolutionized the landscape of heart rate detection research. A detailed introduction of MLP can be found in the [paper](https://ieeexplore.ieee.org/document/7169772).
 
