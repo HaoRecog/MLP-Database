@@ -2,9 +2,9 @@
 
 By Gee-Sern Hsu , Si-De Zeng , Chun-Wei Chiu , Sheng-Luen Chung
 
-To better handle complicated backgrounds, we study the case with motorcycle detection as a preprocessing step so that the search area for the license plate can be better constrained, and compare its performance with the case without this preprocessing. For an extensive study on the performance, we have made the NTUST Motorcycle License Plate database which contains 2120 images collected from different scenes and weather conditions. It reveals a wide scope of variation on viewing angle, size and illumination condition. 
+NTUST Motorcycle License Plate database which contains 2120 images collected from different scenes and weather conditions. It reveals a wide scope of variation on viewing angle, size and illumination condition.
 
-We hope that the Motorcycle license plate (MLP) database could revolutionized the landscape of heart rate detection research. A detailed introduction of MLP can be found in the [paper](https://ieeexplore.ieee.org/document/7169772).
+We hope that the MLP database could revolutionized the landscape of heart rate detection research. A detailed introduction of MLP can be found in the [paper](https://ieeexplore.ieee.org/document/7169772).
 
 Here are some examples from the dataset.
 
@@ -69,7 +69,7 @@ If you like our work or find MLP dataset useful, please cite the following paper
 @inproceedings{hsu2015comparison,
   title={A comparison study on motorcycle license plate detection},
   author={Hsu, Gee-Sern and Zeng, Si-De and Chiu, Chun-Wei and Chung, Sheng-Luen},
-  booktitle={ICMEW},
+  booktitle={2015 ICMEW},
   year={2015},
 }
 ```
